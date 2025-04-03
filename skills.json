@@ -1,0 +1,103 @@
+[
+    {
+        "name": "Compliace & Governance",
+        "icon": "https://img.icons8.com/?size=100&id=LiKrzCQGWIGk&format=png&color=000000"
+    },
+    {
+        "name": "RBI CSF Audits",
+        "icon": "https://img.icons8.com/?size=100&id=ab7FU9sZy68i&format=png&color=000000"
+    },
+    {
+        "name": "SEBI CSCRF Audits",
+        "icon": "https://img.icons8.com/?size=100&id=1ZHnRUix3W47&format=png&color=000000"
+    },
+    {
+        "name": "ISO Audits",
+        "icon": "https://img.icons8.com/?size=100&id=pLg4XuurjzpD&format=png&color=000000"
+    },
+    {
+        "name": "Risk Assessment",
+        "icon": "https://img.icons8.com/?size=100&id=97coDMOAOZae&format=png&color=000000"
+    },
+    {
+        "name": "GDPR",
+        "icon": "https://img.icons8.com/?size=100&id=XMmNJ0Be9jt9&format=png&color=000000"
+    },
+    {
+        "name": "HIPAA",
+        "icon": "https://img.icons8.com/?size=100&id=gGzKQpIO0LTx&format=png&color=000000"
+    },
+    {
+        "name": "Networking",
+        "icon": "https://img.icons8.com/?size=100&id=JeiFvIF34fbQ&format=png&color=000000"
+    },
+    {
+        "name": "Figma",
+        "icon": "https://img.icons8.com/?size=100&id=TTLKwxrd6IL9&format=png&color=000000"
+    },
+    
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS",
+        "icon": "https://img.icons8.com/?size=100&id=dCYsdaPjKoC8&format=png&color=000000"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Bootstrap",
+        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+    },
+    {
+        "name": "Java",
+        "icon": "https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "Falsk",
+        "icon": "https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+        "name": "Metasploit",
+        "icon": "https://img.icons8.com/?size=100&id=97AFS4JiW8vx&format=png&color=000000"
+    },
+    {
+        "name": "Nmap",
+        "icon": "https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000"
+    },
+    {
+        "name": "Wireshark",
+        "icon": "https://img.icons8.com/?size=100&id=rOHcpTUtCTjr&format=png&color=000000"
+    },
+    {
+        "name": "Burp suite",
+        "icon": "https://img.icons8.com/?size=100&id=cVUr1WGmhrbq&format=png&color=000000"
+    },
+    {
+        "name": "Linux",
+        "icon": "https://img.icons8.com/?size=100&id=qBWtR72kluCU&format=png&color=000000"
+    },
+    {
+        "name": "Parrot Security",
+        "icon": "https://img.icons8.com/?size=100&id=sA3Bx9WPvcNg&format=png&color=000000"
+    }  
+]

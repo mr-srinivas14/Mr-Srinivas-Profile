@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Amazon Clone",
+    "desc": "Created the Clone website for Amazon",
+    "image": "amazonclone",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Integrated Security suite for laptop",
+    "desc": "We had used the python libraries to create an GUI",
+    "image": "securitysuite",
+    "category": "application",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Cat Photo App",
+    "desc": "A basic website contains Cat Photo Gallery",
+    "image": "cat",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
